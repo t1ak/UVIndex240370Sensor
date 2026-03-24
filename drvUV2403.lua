@@ -1,4 +1,4 @@
--- 100 drv UV ES8266 --date= 2026-02-26 00:58:44
+-- 100 i2c drv UV ES8266 --date= 2026-02-26 00:58:44
 
 --[[ LUA driver for DFRobot_UVIndex240370Sensor
     (c) Tadeusz Jedynak 2026 ]]
