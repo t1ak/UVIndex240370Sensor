@@ -5,7 +5,7 @@ driver for DFRobot UV Sensor writen in LUA
 simple driver for UVIndex240370Sensor written in LUA (c) Tad1ak 2026
 
 ## Dependencies
-drvUV2403.lua have been tested with Lua 5.1.4 on ESP-IDF v3.3-beta1 integer build They require the following modules. i2c
+drvUV2403.lua have been tested with Lua 5.1.4 on ESP-IDF v3.3-beta1 integer build They require the following modules. i2c and UART
 functionalities
 
 ## Output
