@@ -1,3 +1,4 @@
+UV2403uartTest.lua driver test result:
 
 NodeMCU ESP32 built on nodemcu-build.com provided by frightanic.com
 	branch: dev-esp32-idf3-final
@@ -9,7 +10,7 @@ NodeMCU ESP32 built on nodemcu-build.com provided by frightanic.com
  on ESP-IDF v3.3-beta1-1738-gb64b375234 on SDK IDF
 
 dofile("UV2403uartTest.lua")
-I
+
  = = = DFRobot_UVIndex240370Sensor = = =
          Tadeusz Jedynak 2026
 
