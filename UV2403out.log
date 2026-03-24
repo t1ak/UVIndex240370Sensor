@@ -1,0 +1,23 @@
+
+NodeMCU ESP32 built on nodemcu-build.com provided by frightanic.com
+	branch: dev-esp32-idf3-final
+	commit: 0294835c0243f69bba733961fb0e2642dbcb6f63
+	SSL: false
+	modules: adc,bit,dac,file,gpio,http,i2c,mqtt,net,node,ow,
+                            pulsecnt,struct,time,tmr,uart,wifi
+ build 2026-03-14-07-21-02 powered by Lua 5.1.4 
+ on ESP-IDF v3.3-beta1-1738-gb64b375234 on SDK IDF
+
+dofile("UV2403uartTest.lua")
+I
+ = = = DFRobot_UVIndex240370Sensor = = =
+         Tadeusz Jedynak 2026
+
+UV=50mV UVI=0
+UV=51mV UVI=1
+UV=214mV UVI=1
+UV=228mV UVI=2
+UV=302mV UVI=2
+UV=305mV UVI=3
+UV=402mV UVI=3
+UV=410mV UVI=4
