@@ -12,3 +12,9 @@ functionalities
 
 ## Output
 driver returns two values: UVdata [mV] and UVI (UVindex)
+
+## raw measurements on a sunny day 2026-03-08
+
+<img width="530" height="304" alt="UVrobotRys" src="https://github.com/user-attachments/assets/eb458c7e-0a35-4b0d-beee-50f87e1a00f7" />
+
+i2c driver has a problem when switching from 255 to 256 :-)
