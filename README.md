@@ -1,4 +1,4 @@
-# UVIndex240370Sensor
+# UVIndex240370Sensor I2C
 driver for DFRobot UV Sensor writen in LUA
 
 ## Ultra Violet sensor DFRobot_UVIndex240370Sensor
